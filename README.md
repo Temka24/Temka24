@@ -24,6 +24,8 @@ Currently building [TimeLink](https://timelink.mn) — a modern booking SaaS tha
 
 - [timelink.mn](https://timelink.mn) – Booking SaaS platform
 - [me.timelink.mn](https://me.timelink.mn) – My portfolio site
+- [shopaura](https://shopaura-gray.vercel.app) – Full featured E-commerce store
+- [chat-app](https://real-time-chat-app-five-dun.vercel.app) – Real-time chat app with stunning UI 
 
 ---
 
