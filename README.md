@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Temuujin
+# 👋 Hi, I'm Leo Temuujin
 
 I'm a self-taught fullstack developer and SaaS builder.  
 I working on build real-world products that solve real problems.
