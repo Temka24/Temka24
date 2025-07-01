@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Leo Temuujin
+# 👋 Hi, I'm Temuujin
 
 I'm a self-taught fullstack developer and SaaS builder.  
 I working on build real-world products that solve real problems.
@@ -31,7 +31,7 @@ Currently building [TimeLink](https://timelink.mn) — a modern booking SaaS tha
 
 ### 🛠️ Tech Stack
 
-`Next.js`, `TypeScript`, `TailwindCSS`, `NestJS`, `PostgreSQL`, `Prisma`, `Socket.IO`, `FastAPI`
+`Next.js`, `TypeScript`, `TailwindCSS`, `NestJS`, `PostgreSQL`, `Prisma`, `Socket.IO`, `FastAPI`, `Turborepo`
 
 ---
 
