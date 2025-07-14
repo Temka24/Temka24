@@ -9,7 +9,6 @@ Currently building [TimeLink](https://timelink.mn) — a modern booking SaaS tha
 
 🚀 Fullstack Developer | SaaS Builder | Freelancer  
 🎯 On a mission to build tools that save people time and money  
-📍 Based in Mongolia | Working remotely
 
 ---
 
