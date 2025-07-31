@@ -3,7 +3,7 @@
 I'm a self-taught fullstack developer and SaaS builder.  
 I working on build real-world products that solve real problems.
 
-Currently building [TimeLink](https://timelink.mn) — a modern booking SaaS that helps individuals and businesses manage appointments easily.
+Currently building [TimeLink](https://timelink.mn) — a modern booking SaaS that helps individuals and businesses manage appointments easily automation.
 
 ---
 
