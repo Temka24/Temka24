@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Temuujin
 
-I'm a self-taught fullstack developer and SaaS builder.  
+I'm a self-taught fullstack developer and SaaS Founder.  
 I working on build real-world products that solve real problems.
 
 Currently building [TimeLink](https://timelink.mn) — a modern booking SaaS that helps individuals and businesses manage appointments easily automation.
 
 ---
 
-🚀 Fullstack Developer | SaaS Builder | Freelancer  
+🚀 Fullstack Developer | SaaS Founder
 🎯 On a mission to build tools that save people time and money  
 
 ---
@@ -15,7 +15,6 @@ Currently building [TimeLink](https://timelink.mn) — a modern booking SaaS tha
 ### 🚀 What I'm Working On
 
 - Building and scaling **TimeLink.mn** – SaaS booking platform
-- Freelance projects on Upwork & local businesses
 - Learning more about infrastructure, scalability & system design
 
 
