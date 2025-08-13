@@ -29,7 +29,7 @@ Currently building [TimeLink](https://timelink.mn) — a modern booking SaaS tha
 
 ### 🛠️ Tech Stack
 
-`Next.js`, `TypeScript`, `TailwindCSS`, `NestJS`, `PostgreSQL`, `Prisma`, `Socket.IO`, `FastAPI`, `Turborepo`, `Inngest`, `Upstash`
+`Next.js`, `TypeScript`, `TailwindCSS`, `NestJS`, `PostgreSQL`, `Prisma`, `Socket.IO`, `FastAPI`, `Turborepo`, `Inngest`, `Upstash`, `Monitoring`, `Analyst`
 
 ---
 
