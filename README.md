@@ -30,7 +30,7 @@ and my second SaaS Lerno - a moren English word memorizing flashcard app that to
 
 ### 🛠️ Tech Stack
 
-`Next.js`, `TypeScript`, `TailwindCSS`, `NestJS`, `PostgreSQL`, `Prisma`, `Socket.IO`, `FastAPI`, `Turborepo`, `Inngest`, `Upstash`, `Monitoring`, `Analyst`
+`Next.js`, `TypeScript`, `TailwindCSS`, `NestJS`, `Express`, `PostgreSQL`, `Prisma`, `Socket.IO`, `FastAPI`, `Turborepo`, `Inngest`, `Upstash`, `Monitoring`, `Analyst`
 
 ---
 
