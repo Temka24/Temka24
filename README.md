@@ -25,7 +25,7 @@ and my second SaaS Lerno - a moren English word memorizing flashcard app that to
 - Lerno - My Second app 
 - [me.timelink.mn](https://me.timelink.mn) – My portfolio site
 - [shopaura](https://shopaura-gray.vercel.app) – Full featured E-commerce store
-- [chat-app](https://real-time-chat-app-five-dun.vercel.app) – Real-time chat app with stunning UI 
+- [chat-app](https://real-time-chat-app-five-dun.vercel.app) – Real-time chat app with stunning UI  
 
 ---
 
