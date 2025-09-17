@@ -28,7 +28,7 @@ and my second SaaS Lerno - a moren English word memorizing flashcard app that to
 - [chat-app](https://real-time-chat-app-five-dun.vercel.app) – Real-time chat app with stunning UI  
  
 ---
-
+ 
 ### 🛠️ Tech Stack
 
 `Next.js`, `TypeScript`, `TailwindCSS`, `NestJS`, `Express`, `PostgreSQL`, `Prisma`, `Socket.IO`, `FastAPI`, `Turborepo`, `Inngest`, `Upstash`, `Monitoring`, `Analyst`, `React-Query`, `Redux ToolKit`
