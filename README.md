@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Temuujin 
 
 I'm a self taught fullstack developer and SaaS Founder. 
-I working on build real world products that solve real problems.
+I working on build real world products that solve real problems. 
  
 Currently building [TimeLink](https://timelink.mn) — a booking SaaS that helps individuals and businesses manage appointments easily automation.
 and my second SaaS Lerno - a moren English word memorizing flashcard app that to helps genz more faster english learn 
