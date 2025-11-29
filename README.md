@@ -13,7 +13,7 @@ and my second SaaS Lerno - a moren English word memorizing flashcard app that to
 
 ---
 
-### 🚀 What I'm Working On
+### 🚀 What I'm Working On 
 
 - Building and scaling **TimeLink.mn** – Time slot booking platform
 - Learning more about infrastructure, scalability & system design
