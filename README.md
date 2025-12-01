@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Temuujin 
+# 👋 Hi, I'm Temuujin
 
 I'm a self taught fullstack developer and SaaS Founder.
 I working on build real world products that solve real problems.
@@ -22,10 +22,10 @@ and my second SaaS Lerno - a moren English word memorizing flashcard app that to
 ### 💼 Projects
 
 - [timelink.mn](https://timelink.mn) – My First SaaS
-- Lerno - My Second app 
+- Lerno - My Second Project to help people memorizing English words
 - [me.timelink.mn](https://me.timelink.mn) – My portfolio site
 - [shopaura](https://shopaura-gray.vercel.app) – Full featured E-commerce store
-- [chat-app](https://real-time-chat-app-five-dun.vercel.app) – Real-time chat app with stunning UI
+- [chat-app](https://real-time-chat-app-five-dun.vercel.app) – Real-time chat app with stunning UI with socket.io
 
 ---
 
