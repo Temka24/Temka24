@@ -31,7 +31,7 @@ and my second SaaS Lerno - a more English word memorizing flashcard app that to 
 
 ### 🛠️ Tech Stack
 
-`HTML`, `Next.js`, `TypeScript`, `TailwindCSS`, `NestJS`, `PostgreSQL`, `Prisma`, `WebSocket`, `FastAPI`, `Turborepo`, `Inngest`, `Upstash`, `Monitoring`, `Analyst`, `React-Query`, `Redux ToolKit`, `Expo`, `System Design`,
+`JavaScript`, `TypeScript`, `Next.js`, `TailwindCSS`, `NestJS`, `PostgreSQL`, `Prisma`, `WebSocket`, `FastAPI`, `Turborepo`, `Inngest`, `Upstash`, `Monitoring`, `Analyst`, `React-Query`, `Redux ToolKit`, `Expo`, `System Design`,
 
 ---
 
@@ -41,4 +41,3 @@ and my second SaaS Lerno - a more English word memorizing flashcard app that to 
 - Portfolio: [me.timelink.mn](https://me.timelink.mn)
 - LinkedIn: [https://www.linkedin.com/in/temuujin-b-672929322/](#)
 
----
