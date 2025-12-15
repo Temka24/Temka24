@@ -41,7 +41,7 @@ and my second SaaS Lerno - a more English word memorizing flashcard app that to 
 - `NestJS`, `PostgreSQL`, `Prisma`, `Inngest`, `Upstash`,
 
 ### Mobile Dev
-- `Expo`
+- `Expo`, `NativeWind`, `GlueStack UI`,
 
 ### Extra
 - `Turborepo`, `Observability`, `System Design`
