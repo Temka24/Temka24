@@ -50,7 +50,7 @@ and my second SaaS Lerno - a more English word memorizing flashcard app that to 
 - `Turborepo`, `Pnpm`, `Observability`, `System Design`, `Shared Contracts`, `SEO Optimization`,
 
 ### Hobby 
-- `Competitive Programming`, `Hackathon`, 
+- `Competitive Programming`,
 
 
 ---
