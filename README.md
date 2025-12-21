@@ -29,7 +29,7 @@ and my second SaaS Lerno - a more English word memorizing flashcard app that to 
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 #### Languages 
 - `JavaScript`, `TypeScript`, `Python`, `C++`,
