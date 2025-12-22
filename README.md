@@ -52,7 +52,6 @@ and my second SaaS Lerno - a more English word memorizing flashcard app that to 
 ### Hobby 
 - `Competitive Programming`,
 
-
 ---
 
 ## 📫 Contacts
