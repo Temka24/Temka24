@@ -35,7 +35,7 @@ and my second SaaS Lerno - a more English word memorizing flashcard app that to 
 - `JavaScript`, `TypeScript`, `Python`, `C++`,
 
 ### Frontend 
-- `React.js`, `Next.js`, `TailwindCSS`, `Shadcn UI`, `React-Query`, `Zustand`, `Redux ToolKit`, `WebSocket`,
+- `React.js`, `Next.js`, `Tailwind CSS`, `Shadcn UI`, `React-Query`, `Zustand`, `Redux ToolKit`, `WebSocket`,
 
 ### Backend
 - `NestJS`, `PostgreSQL`, `Prisma`, `Inngest`, `Upstash`, `Swagger UI`,
