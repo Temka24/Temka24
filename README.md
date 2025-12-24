@@ -46,6 +46,9 @@ and my second SaaS Lerno - a more English word memorizing flashcard app that to 
 ### Mobile Dev
 - `Expo`, `NativeWind`, `GlueStack UI`,
 
+### Observability
+- `Monitoring`, `Logging`,
+
 ### Extra
 - `Turborepo`, `Pnpm`, `Observability`, `System Design`, `Shared Contracts`, `SEO Optimization`,
 
