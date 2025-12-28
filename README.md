@@ -31,17 +31,17 @@ and my second SaaS Lerno - a more English word memorizing flashcard app that to 
 
 ## 🛠️ Tech Stack
 
-#### Languages 
+#### Languages
 - `JavaScript`, `TypeScript`, `Python`, `C++`,
 
-### Frontend 
+### Frontend
 - `React.js`, `Next.js`, `Tailwind CSS`, `Shadcn UI`, `React-Query`, `Zustand`, `Redux ToolKit`, `WebSocket`,
 
 ### Backend
 - `NestJS`, `PostgreSQL`, `Prisma`, `Inngest`, `Upstash`, `Swagger UI`,
 
 ### DevOps
-- `Git`, `Docker`, 
+- `Git`, `Docker`,
 
 ### Mobile Dev
 - `Expo`, `NativeWind`, `GlueStack UI`,
