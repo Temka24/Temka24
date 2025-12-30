@@ -22,7 +22,7 @@ and my second SaaS Lerno - a more English word memorizing flashcard app that to 
 ### 💼 Projects
 
 - [timelink.mn](https://timelink.mn) – My First SaaS
-- Lerno - My Second Project to help people memorizing English words
+- Lerno - My App to help people memorizing English words
 - [me.timelink.mn](https://me.timelink.mn) – My portfolio site
 - [shopaura](https://shopaura-gray.vercel.app) – Full featured E-commerce store
 - [chat-app](https://real-time-chat-app-five-dun.vercel.app) – Real-time chat app with stunning UI with socket.io
