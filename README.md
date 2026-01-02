@@ -15,8 +15,8 @@ and my second SaaS Lerno - a more English word memorizing flashcard app that to 
 
 ### 🚀 What I'm Working On
 
-- Building and scaling **TimeLink.mn** – Time slot booking platform
 - Learning more about infrastructure, scalability & system design
+- Building and scaling **TimeLink.mn** – Time slot booking platform
 
 
 ### 💼 Projects
