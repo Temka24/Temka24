@@ -8,7 +8,7 @@ and my second SaaS Lerno - a more English word memorizing flashcard app that to 
 
 ---
 
-🚀 Fullstack Developer | SaaS Founder
+🚀 Software Engineer | SaaS Founder
 🎯 On a mission to build software that save people time and money
 
 ---
