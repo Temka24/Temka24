@@ -35,25 +35,25 @@ also my second SaaS Lerno app - a more English word memorizing flashcard app tha
 #### Languages
 - `JavaScript`, `TypeScript`, `Python`, `C++`, 
 
-### Frontend
+#### Frontend
 - `React.js`, `Next.js`, `Tailwind CSS`, `Shadcn UI`, `React-Query`, `Zustand`, `Zod`, `Redux ToolKit`, `WebSocket`,
 
-### Backend
+#### Backend
 - `NestJS`, `PostgreSQL`, `Prisma`, `Inngest`, `Upstash`, `Swagger UI`,
 
-### DevOps
+#### DevOps
 - `Git`, `Docker`,
 
-### Mobile Dev
+#### Mobile Dev
 - `Expo`, `NativeWind`, `GlueStack UI`,
 
-### Observability
+#### Observability
 - `Monitoring`, `Logging`, `Metrics`,
 
-### Extra
+#### Extra
 - `Turborepo`, `Pnpm`, `Observability`, `System Design`, `Shared Contracts`, `SEO Optimization`,
 
-### Hobby
+#### Hobby
 - `Competitive Programming`, `Chess`,
 
 ---
