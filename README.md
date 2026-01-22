@@ -42,7 +42,7 @@ also my second SaaS Lerno app - a more English word memorizing flashcard app tha
 - `NestJS`, `PostgreSQL`, `Prisma`, `Inngest`, `Upstash`, `Swagger UI`,
 
 #### DevOps
-- `Git`, `Docker`,
+- `Git`, `Docker`, `SSH Connection`,
 
 #### Mobile Dev
 - `Expo`, `NativeWind`, `GlueStack UI`,
