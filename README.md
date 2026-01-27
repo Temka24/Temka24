@@ -22,9 +22,9 @@ also my second SaaS Lerno app - a more English word memorizing flashcard app tha
 
 ### 💼 Projects
 
-- [timelink.mn](https://timelink.mn) – My First SaaS
+- [timelink.mn](https://timelink.mn) – SaaS - Time slot booking platform
 - Lerno - My App to help people memorizing English words
-- [me.timelink.mn](https://me.timelink.mn) – My portfolio site
+- [me.timelink.mn](https://me.timelink.mn) – My portfolio
 - [shopaura](https://shopaura-gray.vercel.app) – Full featured E-commerce store
 - [chat-app](https://real-time-chat-app-five-dun.vercel.app) – Real-time chat app with fancy UI with socket.io
 
