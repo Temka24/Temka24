@@ -4,7 +4,7 @@ I'm a self taught Software Engineer and SaaS Founder.
 I working on build real world products that solve real problems.
 
 Currently building [TimeLink](https://timelink.mn) — a booking SaaS that helps individuals and businesses manage appointments easily automation.
-also my second SaaS Lerno app - a more English word memorizing flashcard app that to helps people more faster to learn english.
+Also my second SaaS Lerno app - a more English word memorizing flashcard app that to helps people more faster to learn english.
 
 ---
 
