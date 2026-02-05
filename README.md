@@ -33,7 +33,7 @@ Also my second SaaS Lerno app - a more English word memorizing flashcard app tha
 ## 🛠️ Tech Stack
 
 #### Languages
-- `JavaScript`, `TypeScript`, `Python`, `C++`,
+- `JavaScript`, `TypeScript`,
 
 #### Frontend
 - `React.js`, `Next.js`, `Tailwind CSS`, `Shadcn UI`, `React-Query`, `Zustand`, `Zod`, `Redux ToolKit`, `WebSocket`,
