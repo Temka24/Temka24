@@ -35,7 +35,7 @@ Also my second SaaS Lerno app - a more English word memorizing flashcard app tha
 #### Languages
 - `JavaScript`, `TypeScript`, `Python`,
 
-#### Base Tech
+#### Web Base Tech
 - `HTML`, `CSS`, `WebAPIs`,
 
 #### Frontend
