@@ -66,4 +66,3 @@ Also my second SaaS Lerno app - a more English word memorizing flashcard app tha
 - Email: temuujin.buy@gmail.com
 - Portfolio: [me.timelink.mn](https://me.timelink.mn)
 - LinkedIn: [https://www.linkedin.com/in/temuujin-b-672929322/](#)
-
