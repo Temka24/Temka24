@@ -16,7 +16,7 @@ Also my second SaaS Lerno app - a more English word memorizing flashcard app tha
 ### 🚀 What I'm Working On
 
 - Learning more about infrastructure, scalability & system design
-- Launched **TimeLink.mn** – Time slot booking platform
+- Launched **TimeLink.mn** – Time slot booking software
 - Developing **Lerno** - English words Flashcard app
 
 
