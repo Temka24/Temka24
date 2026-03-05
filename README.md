@@ -42,7 +42,7 @@ Also my second SaaS Lerno app - a more English word memorizing flashcard app tha
 - `React.js`, `Next.js`, `Tailwind CSS`, `Shadcn UI`, `React-Query`, `Zustand`, `Redux ToolKit`, `WebSocket`,
 
 #### Backend
-- `NestJS`, `Express`, `PostgreSQL`, `Prisma`, `Inngest`, `Upstash`, `Swagger UI`,
+- `NestJS`, `Express`, `PostgreSQL`, `Prisma`, `Inngest`, `Upstash Redis`, `Swagger UI`,
 
 #### DevOps
 - `Git`, `Docker`, `SSH Connection`,
