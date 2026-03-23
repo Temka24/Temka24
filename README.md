@@ -16,7 +16,7 @@ Also my second SaaS Lerno app - a more English word memorizing flashcard app tha
 ### 🚀 What I'm Working On
 
 - Learning more about infrastructure, scalability & system design
-- Launched **TimeLink.mn** – Time slot booking platform
+- Launched **TimeLink.mn** – Time slot booking website
 - Developing **Lerno** - Flashcard app to memorize english words 
 
 ---
@@ -66,4 +66,4 @@ Also my second SaaS Lerno app - a more English word memorizing flashcard app tha
 
 - Email: temuujin.buy@gmail.com
 - Portfolio: [https://me.timelink.mn](#)
-- LinkedIn: [https://www.linkedin.com/in/temuujin-b-672929322/](#)
+- LinkedIn: [https://www.linkedin.com/in/temuujin-b-672929322](#)
