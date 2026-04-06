@@ -18,7 +18,7 @@ Also my second SaaS [TimeLink](https://timelink.mn) — time slot booking Platfo
 
 - Learning more about infrastructure, scalability & system design
 - Launched **TimeLink.mn** – Time slot booking website
-- Developing **Lerno** - Flashcard app to memorize english words 
+- Developing **Lerno** - Flashcard app to memorize english words
 
 ---
 
