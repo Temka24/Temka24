@@ -5,7 +5,7 @@ I working on build real world products that solve real problems.
 
 Currently building Lerno - English words memorizing flashcard app that to helps people more faster to learn english.
 
-Also my second SaaS [TimeLink](https://timelink.mn) — time slot booking Platform that helps individuals and businesses manage appointments easily automation.
+Also my second SaaS [TimeLink](https://timelink.mn) — time slot booking Platform that helps individuals and businesses manage their appointments easily automation.
 
 ---
 
