@@ -17,7 +17,7 @@ Also my second SaaS [TimeLink](https://timelink.mn) — time slot booking Platfo
 ### 🚀 What I'm Working On
 
 - Learning more about infrastructure, scalability & system design
-- Launched **TimeLink.mn** – Time slot booking platform for Mongolian service owners
+- Launched **TimeLink.mn** – Time slot booking platform for Mongolian Users
 - Developing **Lerno** - Flashcard app to memorize english words for Mongolian users
 
 ---
