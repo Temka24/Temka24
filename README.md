@@ -18,7 +18,7 @@ Also my second SaaS [TimeLink](https://timelink.mn) — time slot booking Platfo
 
 - Learning more about infrastructure, scalability & system design
 - Launched **TimeLink.mn** – Time slot booking platform for Mongolian Services
-- Developing **Lerno** - Flashcard app to memorize english words for Mongolian users
+- Developing **Lerno app** - Flashcard app to memorize english words for Mongolian users
 
 ---
 
