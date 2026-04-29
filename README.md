@@ -3,7 +3,7 @@
 I'm a self taught Software Engineer and SaaS Founder.
 I working on build real world products that solve real problems.
 
-Currently building Lerno - English word memorizing app using flashcards that to helps people more faster to memorize words.
+Currently building Lerno app - English word memorizing app using flashcards that to helps people more faster to memorize words.
 
 Also my second SaaS [TimeLink](https://timelink.mn) — time slot booking Platform that helps individuals and businesses manage their appointments easily automation.
 
