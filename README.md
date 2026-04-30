@@ -9,7 +9,7 @@ Also my second SaaS [TimeLink](https://timelink.mn) — time slot booking Platfo
 
 ---
 
-🚀 Software Engineer | SaaS Founder
+🚀 SaaS Founder | Software Engineer
 🎯 On a mission to build software that save people time and money
 
 ---
