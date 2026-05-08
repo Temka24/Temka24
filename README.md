@@ -24,7 +24,7 @@ Also my second SaaS [TimeLink](https://timelink.mn) — time slot booking Platfo
 
 ### 💼 Projects
 
-- [timelink.mn](https://timelink.mn) – SaaS - Time slot booking platform
+- [timelink.mn](https://timelink.mn) - Time slot booking SaaS
 - Lerno App - To help people memorizing English words
 - [me.timelink.mn](https://me.timelink.mn) – My Portfolio
 - [shopaura](https://shopaura-gray.vercel.app) – Sneakers E-commerce store
