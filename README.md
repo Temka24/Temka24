@@ -56,7 +56,7 @@ Also my second SaaS [TimeLink](https://timelink.mn) — time slot booking Platfo
 - `Monitoring`, `Logging`, `Metrics`,
 
 #### Extra
-- `Turborepo`, `Pnpm`, `Observability`, `System Design`, `Shared Contracts`, `SEO Optimization`,
+- `Turborepo`, `Pnpm`, `Observability`, `System Design`, `Shared Contracts`,
 
 #### Hobby
 - `Competitive Programming (C++)`, `Chess`, `Checkers`, `Connect 4`,
